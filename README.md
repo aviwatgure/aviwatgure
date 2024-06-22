@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @aviwatgure
+- 👋 Hi, I’m Avinash
 - 👀 I’m interested in Data Science , Machine Learning & AI
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Data Analyst In Finance Domain
 - 📫 Reach me in Gmail: aviwatgurenash1999@gmail.com
-- 😄 Pronouns🧑‍🔬
+- 😄 Pronoun: Analyst
 - ⚡ Fun fact: Reader, Investor, CuriousHumanBeing
 
 <!---
