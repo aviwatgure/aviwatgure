@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on Data Analyst In Finance Domain
 - 📫 Reach me in Gmail: aviwatgurenash1999@gmail.com
-- 😄 Pronoun: Analyst
+- 😄 Pronoun: Data Analyst
 - ⚡ Fun fact: Reader, Investor, CuriousHumanBeing
 
 <!---
